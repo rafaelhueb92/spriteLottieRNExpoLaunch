@@ -1,0 +1,17 @@
+{
+  "name": "spritehw",
+  "displayName": "spriteTest",
+  "expo": {
+    "name": "spritehw",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
